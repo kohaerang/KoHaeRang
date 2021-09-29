@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요 99년생 고해랑입니다. 👋
+### 열심히 배우는 중 입니다. 🌱
+### 📫 Email: kohaerang@gmail.com
+### 
 
 <!--
 **kohaerang/KoHaeRang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
